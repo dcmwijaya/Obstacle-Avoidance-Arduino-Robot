@@ -74,7 +74,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 <th width="840">Tampilan Perangkat Keras</th>
 </tr>
 <tr>
-<td><img src="" alt="IMG"></td>
+<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/2b46645e-b216-4f0d-b232-9af827822ded" alt="IMG"></td>
 </tr>
 </table>
 

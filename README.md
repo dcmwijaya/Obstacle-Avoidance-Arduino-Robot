@@ -59,22 +59,21 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 3. Open the ``` Arduino IDE ``` first, then open the Obstacle Avoidance Arduino Robot project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
    
 4. ``` Board Setup ``` in Arduino IDE<br><br>
-   Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.
-   <br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
    
-5. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.
-   <br><br>
+5. Download & install the CH340 USB-Serial Driver to completion.<br><br>
 
-6. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.
-   <br><br>
+6. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
-7. Before uploading the program please click: ``` Verify ```.<br><br>
+7. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-8. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+8. Before uploading the program please click: ``` Verify ```.<br><br>
+
+9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
    
-9. Please enjoy [Done].
+10. Please enjoy [Done].
 
 <br><br>
 

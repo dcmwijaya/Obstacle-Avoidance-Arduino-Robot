@@ -12,7 +12,8 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Arduino Uno R3 |
-| Perangkat Lunak (Alat) | Arduino IDE |
+| Editor Kode | Arduino IDE |
+| Driver | USB-Serial CH340 |
 | Pustaka Arduino | Adafruit Motor Shield, Servo |
 | Aktuator | Motor Servo SG90 180°, Motor Gear / Motor DC |
 | Sensor | Sensor Ultrasonik (HC-SR04) |

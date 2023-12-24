@@ -20,11 +20,20 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 
 <br><br>
 
-## Unduh & Instal Arduino IDE
+## Unduh & Instal
+1. Arduino IDE
+
    ```
    https://www.arduino.cc/en/software
    ```
+<br>
 
+2. USB-Serial CH340
+
+   ```
+   https://bit.ly/CH340_Driver
+   ```
+   
 <br><br>
 
 ## Persyaratan Proyek

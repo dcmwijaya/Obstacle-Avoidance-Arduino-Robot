@@ -58,7 +58,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 3. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek Obstacle Avoidance Arduino Robot dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
    
 4. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
    
 5. Unduh & instal Driver USB-Serial CH340 hingga selesai.<br><br>
    

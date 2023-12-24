@@ -12,7 +12,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 | Media | Description |
 | --- | --- |
 | Board Development | Arduino Uno R3 |
-| Software (Tools) | Arduino IDE |
+| Code Editor | Arduino IDE |
 | Arduino Library | Adafruit Motor Shield, Servo |
 | Actuators | Servo Motor SG90 180°, Gear Motor / Motor DC |
 | Sensor | Ultrasonic Sensor (HC-SR04) |

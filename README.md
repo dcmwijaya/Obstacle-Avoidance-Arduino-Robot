@@ -27,12 +27,14 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
    ```
    https://www.arduino.cc/en/software
    ```
+<br>
 
 2. USB-Serial CH340
 
    ```
    https://bit.ly/CH340_Driver
    ```
+   
 <br><br>
 
 ## Project Requirements

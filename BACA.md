@@ -60,19 +60,17 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 4. ``` Pengaturan Board ``` di Arduino IDE<br><br>
    • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
    
-5. Unduh & instal Driver USB-Serial CH340 hingga selesai.<br><br>
-   
-6. ``` Instal Pustaka ``` di Arduino IDE<br><br>
+5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
    • Cara: Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
-7. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
 
-8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+7. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+8. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
    
-10. Selamat menikmati [Selesai].
+9. Selamat menikmati [Selesai].
 
 <br><br>
 

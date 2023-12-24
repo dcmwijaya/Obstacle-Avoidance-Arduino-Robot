@@ -62,7 +62,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
    • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
    
 5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
 6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
    • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>

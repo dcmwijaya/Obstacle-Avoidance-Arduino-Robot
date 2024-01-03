@@ -49,6 +49,14 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/1d97c227-5325-47b4-b0ba-48d8ab2e77b5" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
+<table>
+<tr>
+<th width="840">Wiring</th>
+</tr>
+<tr>
+<td><img src="" alt="Wiring"></td>
+</tr>
+</table>
 
 <br><br>
 

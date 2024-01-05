@@ -46,7 +46,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/168fadce-b7fe-482e-8f20-cc923b72a8aa" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/1d97c227-5325-47b4-b0ba-48d8ab2e77b5" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/040664ec-42bf-46ea-b392-65537869a625" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>

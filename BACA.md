@@ -47,7 +47,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/168fadce-b7fe-482e-8f20-cc923b72a8aa" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/040664ec-42bf-46ea-b392-65537869a625" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/8aac1859-2847-44dc-a1bb-c380c834b055" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -55,7 +55,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/d018d853-ab27-4f27-84ca-259f25289fb8" alt="Wiring"></td>
+<td><img src="" alt="Wiring"></td>
 </tr>
 </table>
 

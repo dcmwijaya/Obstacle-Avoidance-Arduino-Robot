@@ -18,7 +18,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 | Arduino Library | Adafruit Motor Shield, Servo |
 | Actuators | Servo Motor SG90 180° (x1), Gear Motor / Motor DC (x4) |
 | Sensor | HC-SR04: Ultrasonic Sensor (x1) |
-| Switch | KCD11: Rocker Switch (x1) |
+| Switch | KCD11: Rocker Switch SPST (x1) |
 | Other Components | Jumper cable, USB cable type A/B (x1), Li-ion battery 4800mAh 3.7V 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x4), Motor driver shield L293D (x1), Car robot frame (x1), ETC |
 
 <br><br>
@@ -55,7 +55,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/a4f4a9c9-ee26-490b-b31c-61cb18092b47" alt="Wiring"></td>
 </tr>
 </table>
 

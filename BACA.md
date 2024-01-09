@@ -18,7 +18,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 | Pustaka Arduino | Adafruit Motor Shield, Servo |
 | Aktuator | Motor Servo SG90 180° (x1), Motor Gear / Motor DC (x4) |
 | Sensor | HC-SR04: Sensor Ultrasonik (x1) |
-| Saklar | KCD11: Saklar Pengayun (x1) |
+| Saklar | KCD11: Saklar Pengayun SPST (x1) |
 | Komponen Lainnya | Kabel Jumper, Kabel USB tipe A/B (x1), Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x4), Motor driver shield L293D (x1), Kerangka robot mobil (x1), DLL |
 
 <br><br>
@@ -55,7 +55,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/a4f4a9c9-ee26-490b-b31c-61cb18092b47" alt="Wiring"></td>
 </tr>
 </table>
 

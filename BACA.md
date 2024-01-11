@@ -8,7 +8,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Alat
+## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Arduino Uno R3 |

@@ -8,7 +8,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Media | Description |
 | --- | --- |
 | Board Development | Arduino Uno R3 |
@@ -39,7 +39,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
    
 <br><br>
 
-## Project Requirements
+## Project Designs
 <table>
 <tr>
 <th width="420">Block Diagram</th>
@@ -61,7 +61,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 
 <br><br>
 
-## Get Started
+## Arduino IDE Setup
 1. Make sure you have the necessary electronic components.<br><br>
    
 2. Make sure your components are designed according to the diagram.<br><br>
@@ -82,6 +82,19 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 8. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
    
 9. Please enjoy [Done].
+
+<br><br>
+
+## Get Started
+1. Download and extract this repository.<br><br>
+   
+2. Make sure you have the necessary electronic components.<br><br>
+   
+3. Make sure your components are designed according to the diagram.<br><br>
+   
+4. Configure your device according to the settings above.<br><br>
+
+5. Please enjoy [Done].
 
 <br><br>
 

@@ -39,7 +39,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
    
 <br><br>
 
-## Persyaratan Proyek
+## Rancangan Proyek
 <table>
 <tr>
 <th width="420">Diagram Blok</th>

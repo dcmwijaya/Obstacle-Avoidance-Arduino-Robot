@@ -61,7 +61,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 
 <br><br>
 
-## Memulai
+## Pengaturan Arduino IDE
 1. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
    
 2. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
@@ -82,6 +82,19 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 8. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
    
 9. Selamat menikmati [Selesai].
+
+<br><br>
+
+## Memulai
+1. Unduh dan ekstrak repositori ini.<br><br>
+
+2. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
+   
+3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
+   
+4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
+
+5. Selamat menikmati [Selesai].
 
 <br><br>
 

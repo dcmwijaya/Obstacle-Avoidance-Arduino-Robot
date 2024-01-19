@@ -19,7 +19,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 | Actuators | Servo Motor SG90 180° (x1), Gear Motor / Motor DC (x4) |
 | Sensor | HC-SR04: Ultrasonic Sensor (x1) |
 | Switch | KCD11: Rocker Switch SPST (x1) |
-| Other Components | Jumper cable (1 set), USB cable type A/B (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x4), Motor driver shield L293D (x1), Car robot frame (x1), Spicer bolts (1 set), Screwdriver plus bolts (1 set), and Nuts (1 set) |
+| Other Components | Jumper cable (1 set), USB cable type A/B (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x4), Motor driver shield L293D (x1), Car robot frame (x1), ETC |
 
 <br><br>
 

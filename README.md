@@ -65,7 +65,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
    
 2. Make sure your components are designed according to the diagram.<br><br>
    
-3. Open the ``` Arduino IDE ``` first, then open the Obstacle Avoidance Arduino Robot project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
+3. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
    
 4. ``` Board Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>

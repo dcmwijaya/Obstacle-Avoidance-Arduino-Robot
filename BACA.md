@@ -19,7 +19,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 | Aktuator | Motor Servo SG90 180° (x1), Motor Gear / Motor DC (x4) |
 | Sensor | HC-SR04: Sensor Ultrasonik (x1) |
 | Saklar | KCD11: Saklar Pengayun SPST (x1) |
-| Komponen Lainnya | Kabel Jumper, Kabel USB tipe A/B (x1), Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x4), Motor driver shield L293D (x1), Kerangka robot mobil (x1), DLL |
+| Komponen Lainnya | Kabel Jumper (1 set), Kabel USB tipe A/B (x1), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x4), Motor driver shield L293D (x1), Kerangka robot mobil (x1), Baut spicer (1 set), Baut obeng plus (1 set), dan Mur (1 set) |
 
 <br><br>
 

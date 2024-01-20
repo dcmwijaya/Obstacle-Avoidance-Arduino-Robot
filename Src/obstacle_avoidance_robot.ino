@@ -47,13 +47,13 @@ void loop(){
   }
 }
 
+int leftsee(){ servo.write(20); delay(800); Left = ultrasonic(); return Left; } // leftsee function
+int rightsee(){ servo.write(150); delay(800); Right = ultrasonic(); return Right; } // rightsee function
+int ultrasonic(){ digitalWrite(Trig, LOW); delayMicroseconds(4); digitalWrite(Trig, HIGH); delayMicroseconds(10); digitalWrite(Trig, LOW); long t = pulseIn(Echo, HIGH); long cm = t / 29 / 2; return cm; } // ultrasonic function
+
 void forward(){ Motor1.run(FORWARD); Motor2.run(FORWARD); Motor3.run(FORWARD); Motor4.run(FORWARD); } // motor control method: forward
 void backward(){ Motor1.run(BACKWARD); Motor2.run(BACKWARD); Motor3.run(BACKWARD); Motor4.run(BACKWARD); } // motor control method: backward
 void turnleft(){ Motor1.run(BACKWARD); Motor2.run(BACKWARD); Motor3.run(FORWARD); Motor4.run(FORWARD); } // motor control method: turnleft
 void turnright(){ Motor1.run(FORWARD); Motor2.run(FORWARD); Motor3.run(BACKWARD); Motor4.run(BACKWARD); } // motor control method: turnright
 void allstop(){ Motor1.run(RELEASE); Motor2.run(RELEASE); Motor3.run(RELEASE); Motor4.run(RELEASE); } // motor control method: stop
-void start(){ delay(3000); for (int a = 0; a < 4; a++) { servo.write(StartPoint); delay(50); servo.write(40); delay(50); servo.write(90); delay(50); servo.write(StartPoint); } // start method
-
-int leftsee(){ servo.write(20); delay(800); Left = ultrasonic(); return Left; } // leftsee function
-int rightsee(){ servo.write(150); delay(800); Right = ultrasonic(); return Right; } // rightsee function
-int ultrasonic(){ digitalWrite(Trig, LOW); delayMicroseconds(4); digitalWrite(Trig, HIGH); delayMicroseconds(10); digitalWrite(Trig, LOW); long t = pulseIn(Echo, HIGH); long cm = t / 29 / 2; return cm; } // ultrasonic function
+void start(){ delay(3000); for (int a = 0; a < 4; a++){ servo.write(StartPoint); delay(50); servo.write(40); delay(50); servo.write(90); delay(50); servo.write(StartPoint); } } // start method

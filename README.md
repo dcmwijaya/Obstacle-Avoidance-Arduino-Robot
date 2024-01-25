@@ -98,7 +98,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <br><br>
 
 ## Highlights
-Coming Soon....
+<img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/b330d739-dc5f-4f18-8b23-a13d512c5ba8" alt="obstacle-avoidance-robot">
 
 <br><br>
 

@@ -61,26 +61,22 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <br><br>
 
 ## Arduino IDE Setup
-1. Make sure you have the necessary electronic components.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
    
-2. Make sure your components are designed according to the diagram.<br><br>
-   
-3. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
-   
-4. ``` Board Setup ``` in Arduino IDE<br><br>
+2. ``` Board Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
    
-5. ``` Install Library ``` in Arduino IDE<br><br>
+3. ``` Install Library ``` in Arduino IDE<br><br>
    • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
 
-6. ``` Port Setup ``` in Arduino IDE<br><br>
+4. ``` Port Setup ``` in Arduino IDE<br><br>
    • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
 
-7. Before uploading the program please click: ``` Verify ```.<br><br>
+5. Before uploading the program please click: ``` Verify ```.<br><br>
 
-8. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
    
-9. Please enjoy [Done].
+7. Please enjoy [Done].
 
 <br><br>
 

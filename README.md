@@ -11,7 +11,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 ## Project Requirements
 | Media | Description |
 | --- | --- |
-| Board Development | Arduino Uno R3 |
+| Development Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CH340 |
 | Programming Language | C/C++ |

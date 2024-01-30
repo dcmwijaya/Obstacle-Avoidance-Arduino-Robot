@@ -10,7 +10,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <br><br>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Development Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |

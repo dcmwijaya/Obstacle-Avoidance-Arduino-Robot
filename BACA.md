@@ -4,6 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Obstacle-Avoidance-Arduino-Robot
+<strong>Proyek Tunggal: Robot Arduino Penghindar Rintangan</strong><br><br>
 Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik akan mendeteksi apakah area yang akan dilewati robot aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain.
 
 <br><br>

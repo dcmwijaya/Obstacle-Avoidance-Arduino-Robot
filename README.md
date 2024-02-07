@@ -76,8 +76,8 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
-   
-7. Please enjoy [Done].
+
+7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 

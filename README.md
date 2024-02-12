@@ -16,26 +16,33 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CH340 |
 | Programming Language | C/C++ |
-| Arduino Library | Adafruit Motor Shield, Servo |
-| Actuators | Servo Motor SG90 180° (x1), Gear Motor / Motor DC (x4) |
+| Arduino Library | • Adafruit Motor Shield<br>• Servo |
+| Actuators | • Servo Motor SG90 180° (x1)<br>• Gear Motor / Motor DC (x4) |
 | Sensor | HC-SR04: Ultrasonic Sensor (x1) |
-| Other Components | USB type B cable - USB type A (x1), Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x4), Motor driver shield L293D (x1), and Car robot frame (x1) |
+| Other Components | • USB type B cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• KCD11: Rocker Switch SPST (x1)<br>• Li-ion battery 18650 (x2)<br>• 2-Slot series battery holder (x1)<br>• Robot wheels (x4)<br>• Motor driver shield L293D (x1)<br>• Car robot frame (x1) |
 
 <br><br>
 
 ## Download & Install
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CH340
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CH340_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -62,22 +69,50 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open this project by clicking: ``` File ``` -> ``` Open ``` -> ``` obstacle_avoidance_robot.ino ```.<br><br>
-   
-2. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```.<br><br>
-   
-3. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open this project by clicking ``` File ``` -> ``` Open ``` :
 
-4. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` obstacle_avoidance_robot.ino ```
+
+   </td></tr></table><br>
+   
+2. ``` Board Setup ``` in Arduino IDE
+
+   <table>
+      <tr><th width="810">
+
+      How to setup the ``` Arduino Uno ``` board
+            
+      </th></tr>
+      <tr><td>
+      
+      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
+
+      </td></tr>
+   </table><br>
+   
+3. ``` Install Library ``` in Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
+
+   </td></tr></table><br>
+
+4. ``` Port Setup ``` in Arduino IDE
+
+   <table><tr><td width="810">
+      
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
 
 5. Before uploading the program please click: ``` Verify ```.<br><br>
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-7. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+7. If there is still a problem when uploading the program, then try checking the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
@@ -95,7 +130,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 <br><br>
 
 ## Highlights
-<img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/b330d739-dc5f-4f18-8b23-a13d512c5ba8" alt="obstacle-avoidance-robot">
+<img width="840" src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/b330d739-dc5f-4f18-8b23-a13d512c5ba8" alt="obstacle-avoidance-robot">
 
 <br><br>
 

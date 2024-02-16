@@ -16,7 +16,7 @@ Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CH340 |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • Adafruit Motor Shield<br>• Servo |
+| Pustaka Arduino | • Adafruit-Motor-Shield<br>• Servo |
 | Aktuator | • Motor Servo SG90 180° (x1)<br>• Motor Gear / Motor DC (x4) |
 | Sensor | HC-SR04: Sensor Ultrasonik (x1) |
 | Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• KCD11: Saklar Pengayun SPST (x1)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x4)<br>• Motor driver shield L293D (x1)<br>• Kerangka robot mobil (x1) |

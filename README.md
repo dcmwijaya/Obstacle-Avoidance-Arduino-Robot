@@ -16,7 +16,7 @@ This robot moves using wheels and when the robot moves, the ultrasonic sensor wi
 | Code Editor | Arduino IDE |
 | Driver | USB-Serial CH340 |
 | Programming Language | C/C++ |
-| Arduino Library | • Adafruit Motor Shield<br>• Servo |
+| Arduino Library | • Adafruit-Motor-Shield<br>• Servo |
 | Actuators | • Servo Motor SG90 180° (x1)<br>• Gear Motor / Motor DC (x4) |
 | Sensor | HC-SR04: Ultrasonic Sensor (x1) |
 | Other Components | • USB type B cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• KCD11: Rocker Switch SPST (x1)<br>• Li-ion battery 18650 (x2)<br>• 2-Slot series battery holder (x1)<br>• Robot wheels (x4)<br>• Motor driver shield L293D (x1)<br>• Car robot frame (x1) |

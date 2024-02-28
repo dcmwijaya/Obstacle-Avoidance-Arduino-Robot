@@ -5,7 +5,7 @@
 
 # Obstacle-Avoidance-Arduino-Robot
 <strong>Proyek Tunggal: Robot Arduino Penghindar Rintangan</strong><br><br>
-Tujuan diadakannya proyek ini yaitu tidak lain untuk mendapatkan kemampuan navigasi robot yang mumpuni dalam mengenali lingkungan sekitar. Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik akan mendeteksi apakah area yang akan dilewati robot aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Hasil dari proyek ini adalah terciptanya robot penghindar rintangan.
+Tujuan diadakannya proyek ini adalah untuk mendapatkan kemampuan navigasi robot yang mumpuni sehingga resiko tabrakan dapat ditekan. Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik akan mendeteksi apakah area yang akan dilewati robot aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Hasil dari proyek ini adalah terciptanya robot penghindar rintangan.
 
 <br><br>
 

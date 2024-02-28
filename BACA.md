@@ -5,7 +5,7 @@
 
 # Obstacle-Avoidance-Arduino-Robot
 <strong>Proyek Tunggal: Robot Arduino Penghindar Rintangan</strong><br><br>
-Robot adalah sebuah alat mekanik yang dapat melakukan tugas secara fisik, baik melalui kendali manusia maupun melalui sistem otomatis. Tujuan diadakannya proyek ini adalah untuk mendapatkan kemampuan navigasi yang baik pada robot. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik akan mendeteksi apakah area yang akan dilewati robot itu aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain. Manfaat dari proyek ini yaitu membantu masyarakat luas dengan memberikan edukasi tentang cara pembuatan robot penghindar rintangan. Hasil dari proyek ini berupa keberhasilan sistem dalam mengurangi resiko tabrakan yang terjadi pada robot.
+Robot adalah sebuah alat mekanik yang dapat melakukan tugas secara fisik, baik melalui kendali manusia maupun melalui sistem otomatis. Tujuan diadakannya proyek ini adalah untuk mendapatkan kemampuan navigasi yang baik pada robot. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Robot ini bergerak menggunakan roda dan ketika robot bergerak, sensor ultrasonik akan mendeteksi apakah area yang akan dilewati robot itu aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain. Manfaat yang diperoleh dari proyek ini yaitu mendapatkan edukasi tentang pembuatan robot. Hasil dari proyek ini berupa keberhasilan sistem dalam mengurangi resiko tabrakan yang terjadi pada robot.
 
 <br><br>
 

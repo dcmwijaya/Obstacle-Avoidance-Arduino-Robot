@@ -5,7 +5,7 @@
 
 # Obstacle-Avoidance-Arduino-Robot
 <strong>Solo Project: Obstacle Avoidance Arduino Robot</strong><br><br>
-Robot is a mechanical device that can physically perform tasks, either through human control or through an automated system. The purpose of this project is to get good navigation capabilities on the robot. This project has been carried out and took approximately 3 days. This robot moves using wheels and when the robot moves, ultrasonic sensors will detect whether the area to be passed by the robot is safe or not. If there are obstacles in the way, then the robot will avoid them and find another way. The benefits of making this project are nothing more than education. The results show that the system created can reduce the risk of collisions, because this robot can recognize objects well in the surrounding environment.
+Robots are tools that can ease the burden on humans. Robots can be controlled by humans directly, but actually robots can also make their own decisions if given an intelligent algorithm. The type of robot that is often used in school activities is a wheeled robot. A wheeled robot is a robot that moves by using wheels. The purpose of this project is to get good navigation capabilities on wheeled robots. This project has been carried out and took approximately 3 days. The robot moves and then the ultrasonic sensor will detect whether the area to be passed is safe or not. If there are obstacles in the way, then the robot will avoid them and find another way. The benefits of making this project are none other than to add insight. The results show that the system created can reduce the risk of collisions, because this robot can recognize objects in the surrounding environment well.
 
 <br><br>
 

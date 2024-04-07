@@ -14,7 +14,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | --- | --- |
 | Development Board | Arduino Uno R3 |
 | Code Editor | Arduino IDE |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Programming Language | C/C++ |
 | Arduino Library | • Adafruit-Motor-Shield<br>• Servo |
 | Actuators | • Servo Motor SG90 180° (x1)<br>• Gear Motor / Motor DC (x4) |
@@ -29,17 +29,17 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
 
    </td></tr></table>

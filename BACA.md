@@ -14,7 +14,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | --- | --- |
 | Papan Pengembangan | Arduino Uno R3 |
 | Editor Kode | Arduino IDE |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • Adafruit-Motor-Shield<br>• Servo |
 | Aktuator | • Motor Servo SG90 180° (x1)<br>• Motor Gear / Motor DC (x4) |
@@ -29,17 +29,17 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
 
    </td></tr></table>

@@ -63,7 +63,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/table/Device Wiring.jpg" alt="wiring"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 

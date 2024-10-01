@@ -63,7 +63,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/table/Device Wiring.jpg" alt="wiring"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 

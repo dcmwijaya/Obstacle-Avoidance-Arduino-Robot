@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Obstacle-Avoidance-Arduino-Robot)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Obstacle-Avoidance-Arduino-Robot?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Solo%20Project-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Obstacle-Avoidance-Arduino-Robot
 <strong>Solo Project: Obstacle Avoidance Arduino Robot</strong><br><br>
@@ -53,8 +54,8 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/168fadce-b7fe-482e-8f20-cc923b72a8aa" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/3e837e4b-7ee3-4fa1-ab03-e0c281ed5506" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -62,7 +63,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/f8ba2bce-c783-495a-bfde-fd0c961a1ed1" alt="Wiring"></td>
+<td><img src="Assets/Documentation/table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -130,7 +131,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <br><br>
 
 ## Highlights
-<img width="840" src="https://github.com/devancakra/Obstacle-Avoidance-Arduino-Robot/assets/54527592/b330d739-dc5f-4f18-8b23-a13d512c5ba8" alt="obstacle-avoidance-robot">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="obstacle-avoidance-robot">
 
 <br><br>
 
@@ -140,7 +141,7 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: editor code, libraries, frameworks, and so on.
 
 <br><br>
 

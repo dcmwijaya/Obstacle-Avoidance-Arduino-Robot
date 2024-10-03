@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Obstacle-Avoidance-Arduino-Robot
-<strong>Proyek Tunggal: Robot Arduino Penghindar Rintangan</strong><br><br>
 Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan oleh manusia secara langsung, namun sebenarnya robot juga dapat mengambil keputusannya sendiri jika diberi algoritma cerdas. Jenis robot yang sering dipakai dalam kegiatan sekolah yaitu robot beroda. Robot beroda adalah robot yang bergerak dengan menggunakan roda. Tujuan diadakannya proyek ini adalah untuk mendapatkan kemampuan navigasi yang baik pada robot beroda. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Robot bergerak lalu sensor ultrasonik akan mendeteksi apakah area yang akan dilewati itu aman atau tidak. Jika ada rintangan yang menghalangi, maka robot akan menghindarinya dan mencari jalan lain. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil penelitian menunjukkan bahwa sistem yang dibuat dapat mengurangi resiko terjadinya tabrakan, karena robot ini dapat mengenali objek-objek yang ada di lingkungan sekitarnya dengan baik. 
 
 <br><br>

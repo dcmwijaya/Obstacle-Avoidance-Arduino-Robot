@@ -108,7 +108,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 
    </td></tr></table><br>
 
-5. Before uploading the program please click: ``` Verify ```.<br><br>
+5. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 6. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
